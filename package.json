@@ -1,0 +1,26 @@
+{
+  "name": "modules_without_webpack",
+  "version": "1.0.0",
+  "description": "\"Advanced task\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WandererDL2017/modules_without_webpack.git"
+  },
+  "keywords": [
+    "modules_without_webpack"
+  ],
+  "author": "Lyaschenko Denis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WandererDL2017/modules_without_webpack/issues"
+  },
+  "homepage": "https://github.com/WandererDL2017/modules_without_webpack#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
